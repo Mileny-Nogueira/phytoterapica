@@ -1,0 +1,38 @@
+.containerdetails{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.containeritens h1{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    font-size: 18px;
+    text-align: left;
+    color: #6d6d6d;
+}
+.containeritens p{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    font-size: 12px;
+}
+
+
+.containeritens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 0 50px;
+}
+.containeritens:nth-child(2){
+    border-right: 0.5px solid #aaaaaa;
+    border-left: 0.5px solid #aaaaaa;
+}
+.containeritens img{
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+}

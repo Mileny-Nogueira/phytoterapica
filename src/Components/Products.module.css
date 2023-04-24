@@ -1,0 +1,30 @@
+
+
+.quadroprodutos{
+    width: 320px;
+    height: 400px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.nome{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: #333;
+}
+
+.valor{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+    color: #98B020;
+}
+
+.parcelado{
+    text-align: left;
+    padding: 0;
+    width: 310px;
+    margin-left: 10px;
+}

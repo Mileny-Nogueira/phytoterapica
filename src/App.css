@@ -1,0 +1,202 @@
+.App {
+  text-align: center;
+}
+.containerprodutos{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: auto;
+  flex-wrap: wrap;
+}
+
+.product01{
+  display: none;
+}
+
+.product02{
+  display: none;
+}
+
+.product03{
+  display: none;
+}
+
+.product04{
+  display: none;
+}
+
+.product05{
+  display: none;
+}
+
+.product06{
+  display: none;
+}
+
+.product07{
+  display: none;
+}
+
+.product08{
+  display: none;
+}
+
+.product09{
+  display: none;
+}
+
+.product010{
+  display: none;
+}
+
+.product011{
+  display: none;
+}
+
+.product012{
+  display: none;
+}
+
+.product013{
+  display: none;
+}
+
+.product014{
+  display: none;
+}
+
+.product015{
+  display: none;
+}
+
+.product016{
+  display: none;
+}
+
+.product1:hover{
+  display: none;
+}
+
+.product2:hover{
+  display: none;
+}
+
+.product3:hover{
+  display: none;
+}
+
+.product4:hover{
+  display: none;
+}
+
+.product5:hover{
+  display: none;
+}
+
+.product6:hover{
+  display: none;
+}
+
+.product7:hover{
+  display: none;
+}
+
+.product8:hover{
+  display: none;
+}
+
+.product9:hover{
+  display: none;
+}
+
+.product10:hover{
+  display: none;
+}
+
+.product11:hover{
+  display: none;
+}
+
+.product12:hover{
+  display: none;
+}
+
+.product13:hover{
+  display: none;
+}
+
+.product14:hover{
+  display: none;
+}
+
+.product15:hover{
+  display: none;
+}
+
+.product16:hover{
+  display: none;
+}
+
+.product1:hover~.product01{
+  display: block;
+}
+
+.product2:hover~.product02{
+  display: block; 
+}
+
+.product3:hover~.product03{
+  display: block; 
+}
+
+.product4:hover~.product04{
+  display: block; 
+}
+
+.product5:hover~.product05{
+  display: block; 
+}
+
+.product6:hover~.product06{
+  display: block; 
+}
+
+.product7:hover~.product07{
+  display: block; 
+}
+
+.product8:hover~.product08{
+  display: block; 
+}
+
+.product9:hover~.product09{
+  display: block; 
+}
+
+.product10:hover~.product010{
+  display: block; 
+}
+
+.product11:hover~.product011{
+  display: block; 
+}
+
+.product12:hover~.product012{
+  display: block; 
+}
+
+.product13:hover~.product013{
+  display: block; 
+}
+
+.product14:hover~.product014{
+  display: block; 
+}
+
+.product15:hover~.product015{
+  display: block; 
+}
+
+.product16:hover~.product016{
+  display: block; 
+}

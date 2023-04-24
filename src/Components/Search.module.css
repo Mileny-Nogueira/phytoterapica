@@ -1,0 +1,40 @@
+.containerSearch{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+button{
+    width: 200px;
+    text-align: start;
+    padding: 15px 10px;
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
+    color: #aaaaaa;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.filtrar{
+    background-image: url('./imagens/backgroundfiltrar.png');
+    margin-left: 50px;
+    transition: all ease .5s;
+}
+
+.filtrar:hover{
+    border-color: #1e1e1e;
+    transition: all ease .5s;
+    color: #1e1e1e;
+}
+
+.ordenar{
+    background-image: url('./imagens/backgroundordenar.png');
+    margin-left: 10px;
+    transition: all ease .5s;
+}
+
+.ordenar:hover{
+    border-color: #1e1e1e;
+    transition: all ease .5s;
+    color: #1e1e1e;
+}

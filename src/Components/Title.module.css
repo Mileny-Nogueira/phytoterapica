@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundimage{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 250px;
+    background-image: url('./imagens/backgroundtitle.jpg');
+    background-size: cover;
+}
+
+.backgroundimage h1, p{
+    text-align: left;
+    color: #6d6d6d;
+    width: 40%;
+    padding-left: 50px;
+}
+
+.backgroundimage h1{
+    margin-bottom: 10px;
+}
